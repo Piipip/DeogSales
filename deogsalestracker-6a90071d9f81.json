@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deogsalestracker",
+  "private_key_id": "6a90071d9f81751a3886b3ed84f751642fc8001b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUeyuYIfE4KVJ2\n3vmPc0cLVe5sMhjtMawT9zyMV4RaF4/5A9V5g0c7ehLK+/E8HYGLbs45JuzFEOX0\nvLK5x8irUOrTrftLJmdjx3s9BfiGR0GtEFIBr1kfeXLINuBCyiaoqEO5J7fJb7ci\neTPSBhk0R+JZv+AlA8MoHhffqoRzvDqtPcEI0fay/b1XE6JKpIGJvCcaBvfdkeyt\nI4F9Wu3k/vodJDrJ0G82YJCBXTfV3494M9SZ5xDSt/crfc55uV85ct6c15ubKMcY\nPjh3NQnSnefZdMSixg1gWu8QwelnCocLAbudFNOO+S8JETvjihmnQbjYl/tB0O4d\nKVCEYrxPAgMBAAECggEAPbliGpmRlzz5xapUWMWmF7bowelzsEPDtzEVF7e8rOc3\nXaEtfFUUdkSp/OlfVJVFspmHsraKBV05T/UY/jr5IjspXECoRVZspmGmfT2kym0c\nuQeKqw6jFy+SlnLKhtxuioQG2FyfWRbo3kzTLumynKtdJ7FDjb0gDiFf0guY2n2F\n5SLn4g816uq7ThoOdAp9tfd1o7Pm9+VsfjE2ZAJ3sK1amVB8iPBublXlQTgUSYfR\nyYER5XXxNdwDPl3yqq3wAVAV2V/0HPpOMKvPOmUJV1FS0CT7vlXGx+GMP1O691zy\nuh9rOXmefgQMn/7lRL3VPl3FDL/35WVJB5RcaA3MIQKBgQD10mS3SXcZ3pJ08FAU\nk3B5M3++//fNJdsn8SUZKHZ8p9WXN59YTjRKDBK3wHEaQV0+atoBqBg52AZSvJuO\nCIWx0uRYxZGXdOzNrfd1LpnEmTomzKbwlf72Q+Y1cCFtgsyBS3aoP7TgwIfKYBcQ\n3IQyqrDt6Gy7bkGU9xTTi12K6QKBgQDdR2Eo4JSoQEfOpJnOqY41x+Y+smrkUB1V\n23aWTZ6ajxelcv3aozzzS1M0Owc0OtFJDAWFS7BAs1sOmpjDumzKRHs5eGwofzgx\nh2b0rzO073NFGsqaQ8gSAYfzyVgVHdKU1aXX8d6r5JiRi3s9ghmkcv3F+5XEH944\nrTOarz+adwKBgDnVvUJuM2pPtk9y9rRQmAa7+hM679dBT9WO47aOkYn0hskkGgZR\np/W/72tyCGov9Lspso7vOHvrelle7I43LRVQU88a9I0YwloF0xGr3BuoHUlhnuk9\nsRXJldD+x66XNnw4//rHukuioJAZmXOrHiM5i5T9uQ9D+oQMucanpGN5AoGBAMIu\nDGYZxnprhlghe9OuWVx6omNsoH7giw23/DXjwYXyghavdXNzAl6iQE66ahT8dIH8\nqa+SfwYYHpUPN3WzWBqbw+Ln+UoEciSMpN2eDer+ohIHc7myN5UNgOd/Teuh8xSm\n89UvrG79uKEoXKraS3RTcL1XjNLCAHmODJX2qgL7AoGAJXM1RkTvsrCtCgW+SeXi\nc3ykfREbbpT1D4HZy6pSUjS+m/XU2XKQnRoyOw7EtW5r+KIKxJdwZ7uev4f82WKO\nUnqnC9EQx7tdRtu3GPTcFQ37Dca0hSTvWcQcaN5Ada23LJPcJLtTo3eOhvn7pR6C\nxLpuWPqFtw980nI61VHLiAo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "salestracekrbot@deogsalestracker.iam.gserviceaccount.com",
+  "client_id": "102521086217723840653",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/salestracekrbot%40deogsalestracker.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
